@@ -5,7 +5,7 @@
 
 - Email: **ajaykrishnan682000.ak@gmail.com**
 
-- My Resume [https://drive.google.com/file/d/1mvH4HjLm8Stpjgw0IjQP6vDRclPkKW5B/view?usp=sharing](https://drive.google.com/file/d/1mvH4HjLm8Stpjgw0IjQP6vDRclPkKW5B/view?usp=sharing)
+-<a href="https://drive.google.com/file/d/1mvH4HjLm8Stpjgw0IjQP6vDRclPkKW5B/view?usp=sharing"> My Resume </a>  [https://drive.google.com/file/d/1mvH4HjLm8Stpjgw0IjQP6vDRclPkKW5B/view?usp=sharing](https://drive.google.com/file/d/1mvH4HjLm8Stpjgw0IjQP6vDRclPkKW5B/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
