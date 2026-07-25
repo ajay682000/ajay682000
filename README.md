@@ -18,11 +18,6 @@
 
   <br />
 
-  <!-- Profile Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ajay682000&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Ajay's Trophies" />
-  </a>
-
 </div>
 
 ---
@@ -70,11 +65,6 @@ I am a passionate **GenAI Engineer** with a love for **filmmaking** and intellig
 ---
 
 ### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajay682000&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Ajay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay682000&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
 
 <br />
 
