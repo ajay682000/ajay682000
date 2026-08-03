@@ -79,7 +79,6 @@ I am a passionate **GenAI Engineer** with a love for **filmmaking** and intellig
 Looking for more than just code? Dive into my creative endeavors:
 - 🌐 **[Official Portfolio Website](https://ajaykrishnan.in)** — Experience immersive user journeys, interactive timelines, and visual highlights.
 - 📚 **[Authored Books & Writing](https://blogs.ajaykrishnan.in)** — Read through my published series, thoughts, and technical deep-dives.
-- 
 <br />
 
 <div align="center">
